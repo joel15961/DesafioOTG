@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "cypress": "^10.3.0",
+    "cypress-xpath": "^2.0.0"
+  },
+  "dependencies": {
+    "chance": "^1.1.8"
+  }
+}
